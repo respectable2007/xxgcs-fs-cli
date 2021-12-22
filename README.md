@@ -16,21 +16,29 @@ xxgcs-fs-cli，可以主要解决以下问题：
 
 可以使用下列命令安装脚手架的包：
 
+```javascript
+
   npm install -g xxgcs-fs-cli
+
+```
 
 ## 创建一个项目
 
 运行以下命令来创建一个新项目：
 
+```javascript
+
   xc create hello-world
+  
+``` 
 
 提供默认的设置，可快速创建一个新项目的原型。
 
   ![创建项目](/assets/create.png)
 
-## 快速原型开发
+## 使用命令
 
-###
+  ![创建项目](/assets/command.png)
 
 
 
