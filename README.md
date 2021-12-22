@@ -34,11 +34,11 @@ xxgcs-fs-cli，可以主要解决以下问题：
 
 提供默认的设置，可快速创建一个新项目的原型。
 
-  <img src="./assets/create.png">
+  <img src="assets/create.png">
 
 ## 使用命令
 
-  ![使用命令](/assets/command.png)
+  ![使用命令](assets/command.png)
 
 
 
