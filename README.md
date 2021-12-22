@@ -38,7 +38,7 @@ xxgcs-fs-cli，可以主要解决以下问题：
 
 ## 使用命令
 
-  ![使用命令](assets/command.png)
+  ![使用命令](https://github.com/respectable2007/xxgcs-fs-cli/raw/master/assets/create.png)
 
 
 
